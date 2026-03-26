@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 My name is Atharva, a Computer Science engineering student with a strong passion for data analytics, artificial intelligence, and building innovative technology solutions. I have hands-on experience working with tools like SQL, Power BI, and Python to analyze data, create visualizations, and develop practical AI applications. I have also built projects such as face detection and computer vision systems, which strengthened my interest in solving real-world problems using data and AI.<br><br>I am constantly exploring new technologies and currently expanding my knowledge in advanced data analytics, SQL optimization, and machine learning techniques. I am eager to collaborate on AI, machine learning, and data analytics projects that create meaningful impact. I am also interested in improving machine learning models, deploying AI solutions, and building scalable data-driven systems.<br><br>I enjoy discussing Python, data analysis, AI projects, and computer vision, and I love experimenting with new ideas to turn them into innovative AI-powered solutions.
 
 
+
+http://atharva0503.github.io/atharva-portfolio/
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/atharva_bagave) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/atharvabagave195) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bagaveatharva@gmail.com) 
 
