@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-My name is Atharva, a Computer Science engineering student with a strong passion for data analytics, artificial intelligence, and building innovative technology solutions. I have hands-on experience working with tools like SQL, Power BI, and Python to analyze data, create visualizations, and develop practical AI applications. I have also built projects such as face detection and computer vision systems, which strengthened my interest in solving real-world problems using data and AI.<br><br>I am constantly exploring new technologies and currently expanding my knowledge in advanced data analytics, SQL optimization, and machine learning techniques. I am eager to collaborate on AI, machine learning, and data analytics projects that create meaningful impact. I am also interested in improving machine learning models, deploying AI solutions, and building scalable data-driven systems.<br><br>I enjoy discussing Python, data analysis, AI projects, and computer vision, and I love experimenting with new ideas to turn them into innovative AI-powered solutions.
+I am Atharva
 
 
 
